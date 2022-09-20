@@ -1,6 +1,6 @@
 <template>
     <header>
-        <a href="#"><img src="" alt="Mar Moran Logo"/></a>
+        <a href="#">Logo</a>
         <ul>
             <li><a href="#">Item</a></li>
             <li><a href="#">Item</a></li>

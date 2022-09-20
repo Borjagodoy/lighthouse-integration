@@ -3,13 +3,12 @@ export default {
   head: {
     title: 'lighthouse-integration',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'es'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { hid: 'description', name: 'description', content: 'The site of the Opera Singer, Mar Moran, a great Soprano of liryc world.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
